@@ -5,36 +5,37 @@
 
 <div align="center">
 
-## 🌟 About Me  
-
-🔭 **Currently Working On**  
-![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-009639?style=for-the-badge) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) 
-![Data Analytics](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
-
-Process optimization and data analytics projects combining Lean Six Sigma with visualization tools.  
-
----
-
-🌱 **Currently Learning**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge) 
-![Artificial Intelligence](https://img.shields.io/badge/Data%20Engineering-4EA94B?style=for-the-badge) 
-
-Advanced ML techniques and IA fundamentals to build end-to-end data solutions.  
-
----
-
-👯 **Looking to Collaborate On**  
-Data-driven projects where I can optimize workflows, automate reporting, and uncover insights that drive business growth. Turning complex problems into simple and scalable solutions. 
-
----
-
-🤔 **Looking for Help With**  
-Networking and entry-level opportunities to demonstrate my skills in **data analytics, process optimization, and continuous improvement** while contributing to impactful business solutions.   
-
----
-
-⚡ **Fun Fact**  
-🌍 I love traveling and have lived abroad — exploring new cultures inspires me to see data from different perspectives.  
+<table>
+  <tr>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>🔭 Currently Working On</h3>
+      <p>Process optimization and data analytics projects combining <b>Lean Six Sigma</b> with <b>Power BI</b> and <b>Tableau</b>.</p>
+    </td>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>🌱 Currently Learning</h3>
+      <p>Advanced <b>Machine Learning</b> techniques and <b>Data Engineering</b> fundamentals for end-to-end data solutions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>👯 Looking to Collaborate On</h3>
+      <p>Data-driven projects where I can optimize workflows, automate reporting, and uncover insights that drive business growth.</p>
+    </td>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>🤔 Looking for Help With</h3>
+      <p>Networking and entry-level opportunities to demonstrate my skills in <b>data analytics</b>, <b>process optimization</b>, and <b>continuous improvement</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>💬 Ask Me About</h3>
+      <p><b>Python</b>, <b>SQL</b>, <b>Lean methodologies</b>, <b>data visualization</b> and turning complex problems into simple, scalable solutions.</p>
+    </td>
+    <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
+      <h3>⚡ Fun Fact</h3>
+      <p>🌍 I love traveling and have lived abroad — exploring new cultures inspires me to see data from different perspectives.</p>
+    </td>
+  </tr>
+</table>
 
 </div>

@@ -16,7 +16,7 @@
     </td>
     <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
       <h3>Currently Learning</h3>
-      <p>Advanced ML techniques and Data Engineering fundamentals for end-to-end solutions.</p>
+      <p>Advanced ML techniques and Artificial Intelligence for end-to-end solutions.</p>
       <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Data%20Engineering-4EA94B?style=for-the-badge" />
     </td>
@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Business%20Growth-228B22?style=for-the-badge" />
     </td>
     <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
-      <h3>Looking for Help With</h3>
+      <h3>Seeking Growth Through</h3>
       <p>Networking and entry-level opportunities to demonstrate my skills and contribute to impactful solutions.</p>
       <img src="https://img.shields.io/badge/Networking-1DA1F2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Opportunities-FFD700?style=for-the-badge" />

@@ -12,20 +12,20 @@
       <p>Process optimization and data analytics projects combining Lean Six Sigma with visualization tools.</p>
       <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-009639?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Analytics-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
     </td>
     <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
       <h3>Currently Learning</h3>
       <p>Advanced ML techniques and Artificial Intelligence for end-to-end solutions.</p>
       <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Data%20Engineering-4EA94B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-4EA94B?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td align="center" width="45%" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px;">
       <h3>Looking to Collaborate On</h3>
       <p>Data-driven projects to optimize workflows, automate reporting, and uncover insights.</p>
-      <img src="https://img.shields.io/badge/Data%20Analytics-3776AB?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/EDA%20Projects-3776AB?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Process%20Optimization-FF6F00?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Business%20Growth-228B22?style=for-the-badge" />
     </td>
@@ -51,7 +51,6 @@
       <p>I love traveling and have lived abroad — exploring new cultures inspires me to see data from different perspectives.</p>
       <img src="https://img.shields.io/badge/Traveler-FF69B4?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Culture%20Explorer-800080?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Data%20Storytelling-20B2AA?style=for-the-badge" />
     </td>
   </tr>
 </table>
